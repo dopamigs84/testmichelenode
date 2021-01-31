@@ -1,0 +1,21 @@
+{
+    "tasks":[
+        {
+            "id":1,
+            "name":"task 1",
+            "completed":false
+        }
+    ],
+    "timeslices":[
+        {
+            "task_id":1,
+            "length":30,
+            "date":"2021-01-18"
+        },
+        {
+            "task_id":1,
+            "length":120,
+            "date":"2021-01-19"
+        }
+    ]
+}
